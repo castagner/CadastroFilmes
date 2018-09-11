@@ -1,0 +1,121 @@
+C:\Users\aluno\source\repos\Filmes\Filmes\obj\Debug\Filmes.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Filmes\Filmes\obj\Debug\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csc.exe
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csc.exe.config
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csc.rsp
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csi.exe
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csi.exe.config
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\csi.rsp
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Console.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Threading.Thread.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\vbc.exe
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\vbc.exe.config
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\vbc.rsp
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Filmes.dll.config
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Filmes.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Filmes.pdb
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Entidade.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Entidade.pdb
+C:\Users\aluno\source\repos\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\source\repos\Filmes\Filmes\obj\Debug\Filmes.dll
+C:\Users\aluno\source\repos\Filmes\Filmes\obj\Debug\Filmes.pdb
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csc.exe
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csc.exe.config
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csc.rsp
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csi.exe
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csi.exe.config
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\csi.rsp
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.AppContext.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Collections.Immutable.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Console.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.IO.Compression.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.IO.Pipes.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Reflection.Metadata.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.AccessControl.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Claims.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.ValueTuple.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Xml.XPath.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\vbc.exe
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\vbc.exe.config
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\vbc.rsp
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\VBCSCompiler.exe.config
+E:\Topicos Avan 2\Filmes\Filmes\bin\Filmes.dll.config
+E:\Topicos Avan 2\Filmes\Filmes\bin\Filmes.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\Filmes.pdb
+E:\Topicos Avan 2\Filmes\Filmes\bin\Entidade.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\Entidade.pdb
+E:\Topicos Avan 2\Filmes\Filmes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Topicos Avan 2\Filmes\Filmes\obj\Debug\Filmes.csprojResolveAssemblyReference.cache
+E:\Topicos Avan 2\Filmes\Filmes\obj\Debug\Filmes.csproj.CoreCompileInputs.cache
+E:\Topicos Avan 2\Filmes\Filmes\obj\Debug\Filmes.dll
+E:\Topicos Avan 2\Filmes\Filmes\obj\Debug\Filmes.pdb
+E:\Topicos Avan 2\Filmes\Filmes\bin\EntityFramework.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\EntityFramework.SqlServer.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\EntityFramework.xml
+E:\Topicos Avan 2\Filmes\Filmes\bin\EntityFramework.SqlServer.xml
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Topicos Avan 2\Filmes\Filmes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Topicos Avan 2\Filmes\Filmes\bin\Entidade.dll.config

@@ -1,0 +1,9 @@
+use filme
+create table filmes (
+id int  primary key identity not null,
+nome varchar (50),
+genero varchar (50),
+anoLancamento int
+);
+
+select * from filmes

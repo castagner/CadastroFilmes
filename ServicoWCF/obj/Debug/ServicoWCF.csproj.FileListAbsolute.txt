@@ -1,0 +1,31 @@
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\Dados.dll
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\Dados.pdb
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\Dados.dll.config
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\obj\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\obj\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\Filmes\ServicoWCF\obj\Debug\ServicoWCF.csprojResolveAssemblyReference.cache
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\ServicoWCF.exe
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\ServicoWCF.pdb
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Dados.dll
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Entidade.dll
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\EntityFramework.dll
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Dados.pdb
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Dados.dll.config
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Entidade.pdb
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\EntityFramework.xml
+E:\Topicos Avan 2\Filmes\ServicoWCF\obj\Debug\ServicoWCF.csprojResolveAssemblyReference.cache
+E:\Topicos Avan 2\Filmes\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+E:\Topicos Avan 2\Filmes\ServicoWCF\obj\Debug\ServicoWCF.exe
+E:\Topicos Avan 2\Filmes\ServicoWCF\obj\Debug\ServicoWCF.pdb
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\EntityFramework.SqlServer.dll
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\Entidade.dll.config
+E:\Topicos Avan 2\Filmes\ServicoWCF\bin\Debug\EntityFramework.SqlServer.xml

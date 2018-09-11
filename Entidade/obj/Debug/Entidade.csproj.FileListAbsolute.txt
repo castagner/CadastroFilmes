@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\Filmes\Entidade\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\Filmes\Entidade\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\Filmes\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Filmes\Entidade\obj\Debug\Entidade.dll
+C:\Users\aluno\source\repos\Filmes\Entidade\obj\Debug\Entidade.pdb
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\Entidade.dll
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\Entidade.pdb
+E:\Topicos Avan 2\Filmes\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+E:\Topicos Avan 2\Filmes\Entidade\obj\Debug\Entidade.dll
+E:\Topicos Avan 2\Filmes\Entidade\obj\Debug\Entidade.pdb
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\Entidade.dll.config
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\EntityFramework.dll
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\EntityFramework.SqlServer.dll
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\EntityFramework.xml
+E:\Topicos Avan 2\Filmes\Entidade\bin\Debug\EntityFramework.SqlServer.xml
+E:\Topicos Avan 2\Filmes\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
